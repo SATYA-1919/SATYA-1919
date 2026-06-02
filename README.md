@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Satyaki%20Tirumal&fontColor=ffffff&fontSize=48&fontAlignY=30&desc=Full-Stack%20%20%C2%B7%20App%20Development%20%C2%B7%20UI%2FUX%20&descSize=18&descAlignY=45&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Satyaki%20Tirumal&fontColor=ffffff&fontSize=48&fontAlignY=30&desc=Full-Stack%20%20%C2%B7%20App%20Development%20%C2%B7%20UI%2FUX%20&descSize=18&descAlignY=50&animation=fadeIn" />
 <p align="center">
   <a href="https://www.linkedin.com/in/satyaki-tirumal-541b98283/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Satya.19.2004@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -99,8 +99,6 @@ $ git log --oneline --since="now"
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SATYA-1919&theme=github-dark-blue&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&hide_border=true" />
 </p>
-
----
 
 ---
 
