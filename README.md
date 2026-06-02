@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/satyaki-tirumal-541b98283/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Satya.19.2004@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Hyderabad,%20India-0D1117?style=flat-square&logo=googlemaps&logoColor=1F6FEB" />
-  <img src="https://komarev.com/ghpvc/?username=SATYA-1919&style=flat-square&color=1F6FEB&label=Profile+Views" />
+  
 </p>
 
 ---
