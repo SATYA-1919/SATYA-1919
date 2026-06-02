@@ -96,9 +96,7 @@ $ git log --oneline --since="now"
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SATYA-1919&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SATYA-1919&theme=github-dark-blue&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&hide_border=true" alt="GitHub Streak" />
-</p>
+
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" />
