@@ -84,22 +84,21 @@ $ git log --oneline --since="now"
 
 ---
 
-### `~/ github-stats`
+### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SATYA-1919&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SATYA-1919&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SATYA-1919&theme=github_dark" alt="GitHub Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SATYA-1919&theme=github_dark" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SATYA-1919&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SATYA-1919&theme=github_dark&utcOffset=5.5" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SATYA-1919&theme=github_dark" alt="Top Languages by Repo" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SATYA-1919&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SATYA-1919&theme=github-dark-blue&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SATYA-1919&theme=github-dark-blue&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" />
