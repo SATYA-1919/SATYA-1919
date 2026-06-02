@@ -88,12 +88,12 @@ $ git log --oneline --since="now"
 ### `~/ github-stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SATYA-1919&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=c9d1d9&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-1919&layout=compact&theme=github_dark&bg_color=0D1117&title_color=1F6FEB&text_color=c9d1d9&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SATYA-1919&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=c9d1d9&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-1919&layout=compact&theme=github_dark&bg_color=0D1117&title_color=1F6FEB&text_color=c9d1d9&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYA-1919&theme=github-dark-blue&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SATYA-1919&theme=github-dark-blue&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&hide_border=true" />
 </p>
 
 ---
