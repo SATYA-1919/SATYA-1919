@@ -126,9 +126,6 @@ $ git log --oneline --since="now"
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SATYA-1919&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYA-1919&theme=github-dark-blue&hide_border=true&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&background=0D1117" alt="GitHub Streak" />
-</p>
 
 ---
 
