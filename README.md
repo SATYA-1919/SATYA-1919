@@ -1,10 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Satyaki%20Tirumal&fontColor=ffffff&fontSize=48&fontAlignY=30&desc=Full-Stack%20%20%C2%B7%20App%20Development%20%C2%B7%20UI%2FUX%20&descSize=18&descAlignY=50&animation=fadeIn" />
-<p align="center">
-  <a href="https://www.linkedin.com/in/satyaki-tirumal-541b98283/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Satya.19.2004@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Hyderabad,%20India-0D1117?style=flat-square&logo=googlemaps&logoColor=1F6FEB" />
-  
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Satyaki%20Tirumal&fontColor=ffffff&fontSize=48&fontAlignY=30&desc=Full-Stack%20%C2%B7%20App%20Development%20%C2%B7%20UI%2FUX&descSize=18&descAlignY=50&animation=fadeIn" />
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&color=1F6FEB&center=true&vCenter=true&width=620&lines=Building+production+web+%26+mobile%2C+end-to-end.;Next.js+%C2%B7+Flutter+%C2%B7+Node.js+%C2%B7+Docker.;Systems+that+hold+up.+Interfaces+that+stay+out+of+the+way.)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/satyaki-tirumal-541b98283/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:Satya.19.2004@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Hyderabad,%20India-0D1117?style=flat-square&logo=googlemaps&logoColor=1F6FEB" />
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Coding workspace banner" />
+
+</div>
 
 ---
 
@@ -13,6 +19,30 @@
 I build production web and mobile products end-to-end — from interface design through API, database, and deployment. I work across the full surface of a product: Next.js and React on the web, Flutter for cross-platform mobile, Node.js services behind them, and Docker-based pipelines shipping it all. I care about systems that hold up under real users, and interfaces that don't get in their way.
 
 Currently studying B.Tech in Electronics & Computer Engineering at Mahindra University while shipping real projects.
+
+---
+
+### `~/ focus`
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70">
+<br><strong>Full-Stack Web</strong>
+<br><sub>Next.js · React · Node.js</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
+<br><strong>Cross-Platform Mobile</strong>
+<br><sub>Flutter · Kotlin · Android</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70">
+<br><strong>DevOps & Deploy</strong>
+<br><sub>Docker · Vercel · Railway</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -96,7 +126,16 @@ $ git log --oneline --since="now"
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SATYA-1919&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYA-1919&theme=github-dark-blue&hide_border=true&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&background=0D1117" alt="GitHub Streak" />
+</p>
 
 ---
+
+<div align="center">
+
+### `> ship · iterate · repeat`
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" />
