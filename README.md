@@ -2,9 +2,10 @@
 <!--  SATYA-1919 · profile README                                  -->
 <!--  Palette: #0D1117 base · #1F6FEB blue · #58A6FF cyan           -->
 <!--           #A371F7 purple · #F778BA pink · #c9d1d9 text         -->
+<!--  Header is self-hosted at ./assets/header.svg (never rate-limits). -->
 <!-- ============================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1F6FEB,75:A371F7,100:58A6FF&height=230&section=header&text=Satyaki%20Tirumal&fontColor=ffffff&fontSize=54&fontAlignY=34&desc=I%20ship%20production%20web%20%26%20mobile%2C%20end-to-end&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/SATYA-1919/SATYA-1919/main/assets/header.svg" alt="Satyaki Tirumal" />
 
 <div align="center">
 
@@ -159,15 +160,20 @@ $ git log --oneline --since="now"
 
 <div align="center">
 
-<!-- Streak is served by demolab — reliable. -->
+<!-- Streak is served by demolab — reliable, renders for you already. -->
 <img width="85%" src="https://streak-stats.demolab.com?user=SATYA-1919&hide_border=true&background=0D1117&stroke=A371F7&ring=58A6FF&fire=F778BA&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
-<!-- The two below come from the free github-readme-stats instance and can rate-limit.
-     Self-host it (see setup notes) and swap the host to make them permanent. -->
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SATYA-1919&show_icons=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A371F7&icon_color=58A6FF&text_color=c9d1d9" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-1919&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=c9d1d9" />
-
 </div>
+
+<!--
+  The github-readme-stats overview + top-languages cards were removed because the
+  free public instance (github-readme-stats.vercel.app) rate-limits and shows
+  broken images. Self-host it once (see setup notes), then paste these back in
+  with your own host swapped in:
+
+  <img height="175" src="https://YOUR-APP.vercel.app/api?username=SATYA-1919&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A371F7&icon_color=58A6FF&text_color=c9d1d9" />
+  <img height="175" src="https://YOUR-APP.vercel.app/api/top-langs/?username=SATYA-1919&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=c9d1d9" />
+-->
 
 <br/>
 
@@ -185,6 +191,6 @@ $ git log --oneline --since="now"
 
 ### `> ship · iterate · repeat`
 
-</div>
+<sub>Built end-to-end · open to collaboration</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:A371F7,100:0D1117&height=130&section=footer" />
+</div>
