@@ -19,10 +19,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # color_dots goes empty -> full. First value MUST differ from the
-          # README background (#0D1117) or the grid is invisible (the bug you saw).
+          # color_dots goes empty -> full. The first (empty) value must be a
+          # visible dark-gray, NOT near-background, or the grid disappears.
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=A371F7&color_dots=21262d,1f3a5f,1f6feb,58a6ff,79c0ff
+            dist/github-contribution-grid-snake-dark.svg?color_snake=A371F7&color_dots=2d333b,1f6feb,58a6ff,a371f7,f778ba
             dist/github-contribution-grid-snake.svg?color_snake=A371F7&color_dots=ebedf0,1f6feb,58a6ff,a371f7,f778ba
 
       - name: Push to output branch
