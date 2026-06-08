@@ -1,18 +1,19 @@
 <!-- ============================================================= -->
 <!--  SATYA-1919 · profile README                                  -->
-<!--  Palette: #0D1117 base · #1F6FEB accent · #58A6FF highlight    -->
+<!--  Palette: #0D1117 base · #1F6FEB blue · #58A6FF cyan           -->
+<!--           #A371F7 purple · #F778BA pink · #c9d1d9 text         -->
 <!-- ============================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=220&section=header&text=Satyaki%20Tirumal&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20DevOps&descSize=18&descAlignY=54&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1F6FEB,75:A371F7,100:58A6FF&height=230&section=header&text=Satyaki%20Tirumal&fontColor=ffffff&fontSize=54&fontAlignY=34&desc=I%20ship%20production%20web%20%26%20mobile%2C%20end-to-end&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=680&height=46&lines=I+ship+production+web+%26+mobile%2C+end-to-end.;Next.js+%C2%B7+Flutter+%C2%B7+Node.js+%C2%B7+Docker.;Systems+that+hold+up.+UI+that+stays+out+of+the+way.)](https://github.com/SATYA-1919)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=48&lines=Next.js+%C2%B7+Flutter+%C2%B7+Node.js+%C2%B7+Docker;Systems+that+hold+up+under+real+users.;UI+that+gets+out+of+the+way.)](https://github.com/SATYA-1919)
 
 <a href="https://www.linkedin.com/in/satyaki-tirumal-541b98283/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:Satya.19.2004@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Hyderabad,%20IN-0D1117?style=for-the-badge&logo=googlemaps&logoColor=1F6FEB&labelColor=0D1117" />
-<img src="https://komarev.com/ghpvc/?username=SATYA-1919&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" />
+<a href="mailto:Satya.19.2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Hyderabad,%20IN-A371F7?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=SATYA-1919&style=for-the-badge&color=F778BA&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -21,69 +22,55 @@
 <!-- ===================== WHOAMI ===================== -->
 ### `~/ whoami`
 
-<table>
-<tr>
-<td valign="top" width="62%">
+<div align="center">
 
-I build production web and mobile products end-to-end — interface through API, database, and deployment. **Next.js / React** on the web, **Flutter** for cross-platform mobile, **Node.js** services behind them, and **Docker**-based pipelines shipping it all.
+**Full-stack engineer** building web & mobile products from interface to deployment.
+I care about systems that hold up — and interfaces that stay out of the way.
 
-I care about systems that hold up under real users and interfaces that get out of the way.
+<img src="https://img.shields.io/badge/B.Tech%20%C2%B7%20Mahindra%20University-1F6FEB?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Ex--intern%20%C2%B7%20IIT%20Roorkee-A371F7?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Hackathon%20Builder-F778BA?style=for-the-badge&logo=devpost&logoColor=white" />
 
-&nbsp;🎓&nbsp; **B.Tech, Electronics & Computer Engineering** — Mahindra University
-&nbsp;⚡&nbsp; Ex-intern **@ IIT Roorkee** · hackathon builder
-&nbsp;🛠️&nbsp; Currently scaling **UniShip** — proctoring + compiler infra
-
-</td>
-<td valign="top" width="38%">
-
-<!-- For permanence, drop your own GIF at ./assets/whoami.gif and swap the src below.
-     Third-party repo GIFs can disappear if the owner deletes/renames them. -->
-<img width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" />
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-<!-- ===================== ACTIVITY GRAPH (hero visual) ===================== -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SATYA-1919&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=ffffff&area=true&area_color=1F6FEB&title_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity" />
+<!-- ===================== ACTIVITY GRAPH (hero motion) ===================== -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SATYA-1919&bg_color=0D1117&color=58A6FF&line=A371F7&point=ffffff&area=true&area_color=1F6FEB&title_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity" />
 
 <br/>
 
 <!-- ===================== STACK ===================== -->
 ### `~/ stack`
 
+<div align="center">
+
 **Web & Mobile**
 
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=0175C2)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Backend & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white)
-![REST](https://img.shields.io/badge/REST-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Native**
+**Native & Ship**
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Ship & Tooling**
-
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0D1117?style=flat-square&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+</div>
 
 <br/>
 
@@ -98,10 +85,10 @@ I care about systems that hold up under real users and interfaces that get out o
 
 University super-platform — an **AI résumé builder**, **live exam proctoring**, and a **Docker-hosted in-browser code compiler**, engineered to hold up under real student load.
 
-![Next.js](https://img.shields.io/badge/Next.js-1F6FEB?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-1F6FEB?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-1F6FEB?style=flat-square&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1F6FEB?style=flat-square&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </td>
 </tr>
@@ -110,11 +97,11 @@ University super-platform — an **AI résumé builder**, **live exam proctoring
 
 #### 📊&nbsp; [Smart Leads Dashboard](https://github.com/SATYA-1919/Smart-Leads-Dashboard)
 
-Lead-management dashboard with JWT auth, role-based access, and CSV export — containerized with Docker Compose.
+JWT auth, role-based access, and CSV export. Containerized with Docker Compose.
 
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
@@ -123,9 +110,9 @@ Lead-management dashboard with JWT auth, role-based access, and CSV export — c
 
 Native Android grocery app — fast catalog browsing and a tight, low-friction cart flow.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
 
 </td>
 </tr>
@@ -134,11 +121,11 @@ Native Android grocery app — fast catalog browsing and a tight, low-friction c
 
 #### ✅&nbsp; [Flutter Task Manager](https://github.com/SATYA-1919/task-manager-app)
 
-Cross-platform task app — real-time Firebase sync, Material 3 UI, and REST integration.
+Cross-platform task app — real-time Firebase sync, Material 3 UI, REST integration.
 
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=0175C2)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
 <td valign="top" width="50%">
@@ -147,7 +134,7 @@ Cross-platform task app — real-time Firebase sync, Material 3 UI, and REST int
 
 The rest of what I'm building and breaking — apps, experiments, and infra.
 
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </td>
 </tr>
@@ -172,19 +159,20 @@ $ git log --oneline --since="now"
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SATYA-1919&show_icons=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=1F6FEB&icon_color=58A6FF&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-1919&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=c9d1d9" />
+<!-- Streak is served by demolab — reliable. -->
+<img width="85%" src="https://streak-stats.demolab.com?user=SATYA-1919&hide_border=true&background=0D1117&stroke=A371F7&ring=58A6FF&fire=F778BA&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
-<img width="80%" src="https://streak-stats.demolab.com?user=SATYA-1919&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=58A6FF&currStreakLabel=1F6FEB&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=SATYA-1919&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+<!-- The two below come from the free github-readme-stats instance and can rate-limit.
+     Self-host it (see setup notes) and swap the host to make them permanent. -->
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=SATYA-1919&show_icons=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A371F7&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-1919&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=c9d1d9" />
 
 </div>
 
 <br/>
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
-<!-- Renders after the "Generate Snake" Action runs once. See setup notes. -->
+<!-- Visible after the "Generate Snake" Action runs once (see setup notes). -->
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/SATYA-1919/SATYA-1919/output/github-contribution-grid-snake-dark.svg" />
@@ -199,4 +187,4 @@ $ git log --oneline --since="now"
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:A371F7,100:0D1117&height=130&section=footer" />
