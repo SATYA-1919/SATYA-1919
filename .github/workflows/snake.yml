@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"   # daily refresh
-  workflow_dispatch:        # lets you run it manually from the Actions tab
+  workflow_dispatch:        # run manually from the Actions tab
   push:
     branches:
       - main
@@ -19,9 +19,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # color_dots goes empty -> full. First value MUST differ from the
+          # README background (#0D1117) or the grid is invisible (the bug you saw).
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=1F6FEB&color_dots=0D1117,1F6FEB,58A6FF,58A6FF,ffffff
-            dist/github-contribution-grid-snake.svg?color_snake=1F6FEB&color_dots=ebedf0,1F6FEB,58A6FF,1F6FEB,0D1117
+            dist/github-contribution-grid-snake-dark.svg?color_snake=A371F7&color_dots=21262d,1f3a5f,1f6feb,58a6ff,79c0ff
+            dist/github-contribution-grid-snake.svg?color_snake=A371F7&color_dots=ebedf0,1f6feb,58a6ff,a371f7,f778ba
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
