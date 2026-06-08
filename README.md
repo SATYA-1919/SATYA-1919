@@ -20,6 +20,15 @@
 
 <br/>
 
+<!-- ===================== LOFI DEV GIF ===================== -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" alt="lofi coding" />
+
+</div>
+
+<br/>
+
 <!-- ===================== WHOAMI ===================== -->
 ### ~/ whoami
 
@@ -191,5 +200,19 @@ $ git log --oneline --since="now"
 ### > ship · iterate · repeat
 
 <sub>Built end-to-end · open to collaboration</sub>
+
+</div>
+
+<br/>
+
+<!-- ===================== FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:A371F7,100:F778BA&height=120&section=footer&reversal=true" />
+
+<div align="center">
+
+<sub>⚡ Thanks for scrolling — let's build something that lasts.</sub>
+
+<a href="https://www.linkedin.com/in/satyaki-tirumal-541b98283/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:Satya.19.2004@gmail.com"><img src="https://img.shields.io/badge/Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
