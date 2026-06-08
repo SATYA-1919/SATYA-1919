@@ -1,8 +1,8 @@
 <!-- ============================================================= -->
-<!--  SATYA-1919 · profile README                                  -->
-<!--  Palette: #0D1117 base · #1F6FEB blue · #58A6FF cyan           -->
-<!--           #A371F7 purple · #F778BA pink · #c9d1d9 text         -->
-<!--  Header is self-hosted at ./assets/header.svg (never rate-limits). -->
+<!-- SATYA-1919 · profile README -->
+<!-- Palette: #0D1117 base · #1F6FEB blue · #58A6FF cyan -->
+<!-- #A371F7 purple · #F778BA pink · #c9d1d9 text -->
+<!-- Header is self-hosted at ./assets/header.svg (never rate-limits). -->
 <!-- ============================================================= -->
 
 <img width="100%" src="https://raw.githubusercontent.com/SATYA-1919/SATYA-1919/main/assets/header.svg" alt="Satyaki Tirumal" />
@@ -23,7 +23,7 @@
 <!-- ===================== CARTOON DEV GIF ===================== -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="600" alt="cartoon developer at work" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="cartoon developer at work" />
 
 </div>
 
@@ -152,9 +152,9 @@ The rest of what I'm building and breaking — apps, experiments, and infra.
 
 ```bash
 $ git log --oneline --since="now"
-► UniShip    # scaling proctoring + compiler infra
-► Flutter    # deeper cross-platform patterns, Material 3
-► Backend    # production-grade auth, RBAC, containerized services
+► UniShip # scaling proctoring + compiler infra
+► Flutter # deeper cross-platform patterns, Material 3
+► Backend # production-grade auth, RBAC, containerized services
 ```
 
 <br/>
@@ -170,13 +170,13 @@ $ git log --oneline --since="now"
 </div>
 
 <!--
-  The github-readme-stats overview + top-languages cards were removed because the
-  free public instance (github-readme-stats.vercel.app) rate-limits and shows
-  broken images. Self-host it once (see setup notes), then paste these back in
-  with your own host swapped in:
+The github-readme-stats overview + top-languages cards were removed because the
+free public instance (github-readme-stats.vercel.app) rate-limits and shows
+broken images. Self-host it once (see setup notes), then paste these back in
+with your own host swapped in:
 
-  <img height="175" src="https://YOUR-APP.vercel.app/api?username=SATYA-1919&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A371F7&icon_color=58A6FF&text_color=c9d1d9" />
-  <img height="175" src="https://YOUR-APP.vercel.app/api/top-langs/?username=SATYA-1919&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=c9d1d9" />
+<img height="175" src="https://YOUR-APP.vercel.app/api?username=SATYA-1919&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A371F7&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="175" src="https://YOUR-APP.vercel.app/api/top-langs/?username=SATYA-1919&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=c9d1d9" />
 -->
 
 <br/>
@@ -185,7 +185,7 @@ $ git log --oneline --since="now"
 <!-- Visible after the "Generate Snake" Action runs once (see setup notes). -->
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/SATYA-1919/SATYA-1919/output/github-contribution-grid-snake-dark.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/SATYA-1919/SATYA-1919/output/github-contribution-grid-snake-dark.svg?v=3" />
 
 </div>
 
