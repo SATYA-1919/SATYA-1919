@@ -20,10 +20,10 @@
 
 <br/>
 
-<!-- ===================== LOFI DEV GIF ===================== -->
+<!-- ===================== CARTOON DEV GIF ===================== -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" alt="lofi coding" />
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="600" alt="cartoon developer at work" />
 
 </div>
 
@@ -35,10 +35,6 @@
 <div align="center">
 
 **Full-stack engineer** building web & mobile products from interface to deployment. I care about systems that hold up — and interfaces that stay out of the way.
-
-<img src="https://img.shields.io/badge/B.Tech%20%C2%B7%20Mahindra%20University-1F6FEB?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Ex--intern%20%C2%B7%20IIT%20Roorkee-A371F7?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Hackathon%20Builder-F778BA?style=for-the-badge&logo=devpost&logoColor=white" />
 
 </div>
 
