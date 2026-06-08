@@ -21,12 +21,11 @@
 <br/>
 
 <!-- ===================== WHOAMI ===================== -->
-### `~/ whoami`
+### ~/ whoami
 
 <div align="center">
 
-**Full-stack engineer** building web & mobile products from interface to deployment.
-I care about systems that hold up — and interfaces that stay out of the way.
+**Full-stack engineer** building web & mobile products from interface to deployment. I care about systems that hold up — and interfaces that stay out of the way.
 
 <img src="https://img.shields.io/badge/B.Tech%20%C2%B7%20Mahindra%20University-1F6FEB?style=for-the-badge&logo=googlescholar&logoColor=white" />
 <img src="https://img.shields.io/badge/Ex--intern%20%C2%B7%20IIT%20Roorkee-A371F7?style=for-the-badge&logo=google-scholar&logoColor=white" />
@@ -42,7 +41,7 @@ I care about systems that hold up — and interfaces that stay out of the way.
 <br/>
 
 <!-- ===================== STACK ===================== -->
-### `~/ stack`
+### ~/ stack
 
 <div align="center">
 
@@ -76,7 +75,7 @@ I care about systems that hold up — and interfaces that stay out of the way.
 <br/>
 
 <!-- ===================== FEATURED WORK (card grid) ===================== -->
-### `~/ featured-work`
+### ~/ featured-work
 
 <table>
 <tr>
@@ -144,7 +143,7 @@ The rest of what I'm building and breaking — apps, experiments, and infra.
 <br/>
 
 <!-- ===================== CURRENTLY BUILDING ===================== -->
-### `~/ currently-building`
+### ~/ currently-building
 
 ```bash
 $ git log --oneline --since="now"
@@ -156,7 +155,7 @@ $ git log --oneline --since="now"
 <br/>
 
 <!-- ===================== STATS ===================== -->
-### `~/ stats`
+### ~/ stats
 
 <div align="center">
 
@@ -189,7 +188,7 @@ $ git log --oneline --since="now"
 
 <div align="center">
 
-### `> ship · iterate · repeat`
+### > ship · iterate · repeat
 
 <sub>Built end-to-end · open to collaboration</sub>
 
