@@ -1,0 +1,45 @@
+name: Refresh profile header
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - header.svg          # don't loop on the bot's own commit
+  schedule:
+    - cron: "23 1 * * *"    # daily, ~01:23 UTC
+  workflow_dispatch:         # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-header
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate header.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # used for the language API; not required
+          GH_LOGIN: SATYA-1919
+        run: python .github/header/generate_header.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add header.svg
+          if git diff --staged --quiet; then
+            echo "header unchanged — nothing to commit"
+          else
+            git commit -m "chore: refresh profile header [skip ci]"
+            git push
+          fi
