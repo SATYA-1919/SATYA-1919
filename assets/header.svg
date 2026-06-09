@@ -8,7 +8,7 @@
   <text x="60" y="91" font-family="SF Mono, Cascadia Code, Menlo, Consolas, monospace" font-size="15"><tspan fill="#7d8590">GITHUB / </tspan><tspan fill="#58a6ff" font-weight="700">@SATYA-1919</tspan></text>
   <text x="954" y="91" text-anchor="end" font-family="SF Mono, Cascadia Code, Menlo, Consolas, monospace" fill="#7d8590" font-size="14" letter-spacing="1">HYDERABAD, INDIA</text>
   <text x="44" y="146" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" fill="#f0f6fc" font-size="54" font-weight="800" letter-spacing="3">SATYA</text>
-  <rect x="226" y="112" width="18" height="42" fill="#58a6ff"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
+  <rect x="226" y="112" width="18" height="42" fill="#58a6ff"/>
   <text x="46" y="184" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="18"><tspan fill="#3fb950">#</tspan><tspan fill="#f0f6fc" dx="6">Full-stack</tspan><tspan fill="#7d8590" dx="8">·</tspan><tspan fill="#f0f6fc" dx="8">Flutter</tspan></text>
   <text x="46" y="212" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" fill="#7d8590" font-size="16"><tspan fill="#3fb950">#</tspan><tspan dx="6">Electronics &amp; Computer Engineering</tspan></text>
   <text x="46" y="262" font-family="SF Mono, Cascadia Code, Menlo, Consolas, monospace" font-size="15"><tspan fill="#58a6ff">&gt; </tspan><tspan fill="#f0f6fc" font-weight="700" letter-spacing="1">CONTRIBUTION GRAPH</tspan></text>
